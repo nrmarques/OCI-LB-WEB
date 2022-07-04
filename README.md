@@ -1,4 +1,4 @@
-# OCI-LB-WEB
+# oci-basic-lbweb
 
 Oracle Cloud Basic LB Web
 
