@@ -64,7 +64,7 @@ resource oci_core_subnet Private-Subnet-demo_vcn {
   vcn_id = oci_core_vcn.demo2.id
 }
 
-## Private Subnet
+## Public Subnet
 
 resource oci_core_subnet Public-Subnet-demo_vcn {
   #availability_domain = <<Optionaly>>
