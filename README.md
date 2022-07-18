@@ -1,6 +1,6 @@
 # oci-basic-lbweb
 
-Oracle Cloud Basic LB Web
+Oracle Cloud Basic LB Web - Testing manually configured export
 
 ![image](oci.png)
 
