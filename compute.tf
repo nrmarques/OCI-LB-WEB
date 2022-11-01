@@ -117,6 +117,6 @@ resource oci_core_instance_pool export_web {
     ]
     primary_subnet_id = oci_core_subnet.Private-Subnet-demo_vcn.id
   }
-  size  = "2"
+  size  = "1"
   state = "RUNNING"
 }
